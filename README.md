@@ -1,3 +1,5 @@
+This was forked from a Free Code Camp project list for a professional certiftcation in Data Analysis with Python.
+
 ### Assignment
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
